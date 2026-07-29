@@ -1,0 +1,9 @@
+.proMainBaring{
+    height: 100vh;
+    width: 82%;
+    display: flex;
+    position: fixed;
+    top: 0;
+    right: 0;
+    overflow-y: scroll;
+}

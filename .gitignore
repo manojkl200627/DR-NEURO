@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# Python Virtual Environments
+venv/
+.venv/
+predictAi-env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

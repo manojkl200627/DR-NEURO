@@ -1,0 +1,35 @@
+.box{
+    height: 200px;
+    width: 76rem;
+    background:linear-gradient(to left, rgba(150, 199, 255, 0.282), white);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 32rem;
+}
+
+.box h1{
+    font-size: 50px;
+    
+}
+
+.box h3{
+    font-size: 20px;
+}
+
+
+.para{
+    display: flex;
+    justify-content: space-;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box img{
+    height: 200px;
+    position: absolute;
+    bottom: 1px;
+    right: 5rem;
+}

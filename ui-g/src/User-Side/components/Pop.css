@@ -1,0 +1,29 @@
+.popmain{
+    display: flex;
+    background-color: rgb(236, 0, 0);
+    height:30px;
+    /* width: 100px; */
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    color: rgb(40, 28, 28);
+    font-size: 15px;
+    position: fixed;
+    gap: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    bottom: 10px;
+    right:  10px;
+}
+.closepop{
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    cursor: pointer;
+}
+.i{
+    padding: 8px;
+    border: 2px solid black;
+    border-radius: 60%;
+    font-size: 20px;
+}

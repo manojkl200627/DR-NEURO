@@ -1,0 +1,39 @@
+.card-list{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    top: 15rem;
+    left: 30px;
+}
+
+.category{
+    text-align: center;
+    color: dimgray;
+}
+
+.cards{
+    height: 100px;
+    width: 200px;
+    background-color: rgba(76, 160, 255, 0.564);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5%;
+    box-shadow: 2px 3px 3px rgb(51, 126, 247);
+    transition: transform 0.3s ease;
+}
+
+.cards:hover{
+    cursor: pointer;
+    transform: scale(1.08);
+}
+
+
+.icons{
+    font-size: 30px;
+    color: black;
+}

@@ -1,0 +1,118 @@
+.Lpmain {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  /* background: linear-gradient(270deg, #b9b9fbb7, #ffffff, #c4c4fc9c); */
+  /* background-size: 400% 400%; */
+  /* animation: gradientShift 10s ease infinite; */
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+/* @keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+} */
+.squaremain{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    height: 70vh;
+    width: 30rem;
+    box-shadow: 0 10px 60px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+  }
+
+.lpd1{
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin-top: 30px;
+    background-color: #ffffff;
+    height: 4rem;
+    width: 20rem;
+    /* border: 2px solid black; */
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.lpd2{
+    height: 4rem;
+    /* width: 10rem; */
+    border-radius: 60%;
+}
+
+.lpd2name{
+  font-size: 2rem;
+}
+.lognameup{
+  /* margin-top: 40px; */
+  font-size: 30px;
+  font-family:serif;
+  position: fixed;
+  top: 8rem;
+}
+.gggs{
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+
+.lognameup1{
+  /* margin-top: 40px; */
+  font-size: 30px;
+  font-family:serif;
+  position: fixed;
+  top: 8rem;
+}
+.gggs1{
+  display: flex;
+  /* position: absolute; */
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+/* register comp css*/
+
+
+.LpmainReg{
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+}
+.squaremain2{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    height: 90vh;
+    padding: 10px;
+    width: 30rem;
+    box-shadow: 0 10px 60px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}

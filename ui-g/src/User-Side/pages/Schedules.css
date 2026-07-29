@@ -1,0 +1,53 @@
+.SChedulesMainBaring{
+    height: 100vh;
+    width: 82%;
+    display: flex;
+    position: fixed;
+    top: 0;
+    right: 0;
+    overflow-y: scroll;
+}
+.DiseaseGot{
+    height: 5rem;
+    width: 10rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.307);
+    display:flex;
+    flex-direction: column;
+    
+}
+.spancurrent{
+    color: rgb(0, 255, 51);
+    margin: 6px;
+    margin-top: 10px;
+}
+.diseasespaan{
+    font-size: 30px;
+    margin-left: 30px;
+}
+.d{
+    height: 20vh;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    position: absolute; 
+    top: 17rem;
+    left: 4rem;
+    align-items: center;
+    justify-content: center;
+}
+.dddi{
+    height: 100vh;
+    position: relative;
+    top: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+}
+.historyoftab{
+    height: 100px;
+}
