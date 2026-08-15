@@ -54,34 +54,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9b8e,100:6dd5ed&height=3&section=header" width="100%"/>
 
-## 🖥️ App Preview
-
-<div align="center">
-
-**Home Dashboard**
-<img src="./screenshots/home.png" width="85%"/>
-
-**Smart-AI Symptom Checker & Prediction**
-<img src="./screenshots/smart-ai.png" width="85%"/>
-
-**Top Rated Doctors**
-<img src="./screenshots/top-doctors.png" width="85%"/>
-
-**Appointments — Choose a Specialty**
-<img src="./screenshots/appointments.png" width="85%"/>
-
-**Patient Profile**
-<img src="./screenshots/profile.png" width="85%"/>
-
-<table>
-<tr>
-<td align="center"><b>Login</b><br/><img src="./screenshots/login.png" width="100%"/></td>
-<td align="center"><b>Register</b><br/><img src="./screenshots/register.png" width="100%"/></td>
-<td align="center"><b>Verify OTP</b><br/><img src="./screenshots/otp.png" width="100%"/></td>
-</tr>
-</table>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9b8e,100:6dd5ed&height=3&section=header" width="100%"/>
 
