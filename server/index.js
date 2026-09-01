@@ -6,7 +6,7 @@ import ConnectDB from "./config/DBconnect.js"
 import UserRoute from "./routes/userRoute.js"
 const app = express()
 app.use(cors({
-    origin:["http://localhost:4202"]
+    origin:["*"]
 }))
 app.use(express.json())
 
