@@ -32,7 +32,8 @@
 </div>
 
 <br/>
-
+## SCREENSHORT : https://github.com/manojkl200627/DR-NEURO/tree/main/screenshots
+<br/>
 ## ✨ Features
 
 <table align="center">
